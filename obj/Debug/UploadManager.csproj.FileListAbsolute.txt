@@ -1,0 +1,7 @@
+C:\Development\ASP\UploadManager\obj\Debug\UploadManager.csproj.AssemblyReference.cache
+C:\Development\ASP\UploadManager\obj\Debug\UploadManager.csproj.CoreCompileInputs.cache
+C:\Development\ASP\UploadManager\bin\Debug\UploadManager.dll
+C:\Development\ASP\UploadManager\bin\Debug\UploadManager.pdb
+C:\Development\ASP\UploadManager\obj\Debug\UploadManager.dll
+C:\Development\ASP\UploadManager\obj\Debug\UploadManager.pdb
+C:\Development\ASP\UploadManager\bin\Debug\UploadManager.tlb
